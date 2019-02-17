@@ -9,8 +9,8 @@ React-native 2912
 - Clone
 - Run on IOS or Android projects in emulator
 # Dependencies
-  react
-  react-native
-  react-redux
-  redux
-  redux-thunk
+- react
+- react-native
+- react-redux
+- redux
+- redux-thunk
