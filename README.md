@@ -6,5 +6,11 @@ React-native 2912
 ![Alt text](/screenshots/Screen3.png?raw=true "Screen3") 
 
 # How to use
-#. Clone
-#. Run on IOS or Android projects in emulator
+- Clone
+- Run on IOS or Android projects in emulator
+# Dependencies
+  react
+  react-native
+  react-redux
+  redux
+  redux-thunk
