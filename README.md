@@ -1,5 +1,5 @@
 # rn2912
-React-native 2912
+rn2912 mobile app using React Native & Redux
 
 ![Alt text](/screenshots/Screen1.png?raw=true "Screen1") 
 ![Alt text](/screenshots/Screen2.png?raw=true "Screen2") 
