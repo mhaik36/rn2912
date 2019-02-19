@@ -8,9 +8,9 @@ rn2912 mobile app using React Native, Redux, Redux thunk.
 # How to use
 - Clone
 - Run on IOS projects in emulator/device
-  react-native run-ios
+  + react-native run-ios
 - Run on Android projects in emulator/device
-  react-native run-android
+  + react-native run-android
 # Dependencies
 - react
 - react-native
